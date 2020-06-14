@@ -1,0 +1,39 @@
+.jumbotron {
+	background-image: url(img/marble-white-1-2018.jpg);
+	background-size: cover;
+	height: 500px;
+	text-align: center;
+}
+
+.jumbotron .display-4 {
+	margin-top: 100px
+}
+
+
+.heading {
+text-align: center;
+}
+
+.indonesian {
+	background-image: url(img/marble-white-1-2018.jpg);
+	background-size: cover;
+	height: 50px;
+}
+
+.korean {
+	background-image: url(img/marble-white-1-2018.jpg);
+	background-size: cover;
+	height: 50px;
+}
+
+.french {
+	background-image: url(img/marble-white-1-2018.jpg);
+	background-size: cover;
+	height: 50px;
+}
+
+.thai {
+	background-image: url(img/marble-white-1-2018.jpg);
+	background-size: cover;
+	height: 50px;
+}
